@@ -113,7 +113,7 @@
 </p>
 
 <!-- GitHub Contribution Graph -->
-![Nepal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashnk104&custom_title=Yash's%20Contribution%20Graph&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)
+![Yash's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepal143&custom_title=Yash's%20Contribution%20Graph&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)
 
 <!-- Dynamic Dev Card -->
 
