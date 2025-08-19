@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)](https://nepal143.io)
 
-<h1 align="center" style="font-size: 48px; color: #00bfff; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Yash Nikam</h1>
+<h1 align="center" style="font-size: 48px; color: #00bfff; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Amit Chaudhary</h1>
 <h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #1c1c1c; padding: 15px; border-radius: 10px; color: #00bfff;">A passionate full stack web and Designer from India</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">💬 Ask me about <strong style="color:#00bfff;">Designing | Web Development </strong></p>
-<p align="center">📫 Reach me at <strong><a href="mailto:nepalsss007@gmail.com" style="color: #00bfff;">yash10nikam@gmail.com</a></strong></p>
+<p align="center">📫 Reach me at <strong><a href="mailto:nepalsss007@gmail.com" style="color: #00bfff;">amit.ac9189@gmail.com</a></strong></p>
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #00bfff;">Connect with me:</h3>
 <p align="center">
