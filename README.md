@@ -18,7 +18,7 @@
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #00bfff;">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/nepal-singh-580b45249" target="_blank">
+  <a href="https://linkedin.com/in/yash-nikam-7866b6250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/ysh_nikam" target="_blank">
